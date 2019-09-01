@@ -1,4 +1,4 @@
-# Android Event Reporter
+# Smart Maps: Android Event Reporter
 
 ## Business Design
 - To design a LBS based Android app for users to report events and search nearby events.
